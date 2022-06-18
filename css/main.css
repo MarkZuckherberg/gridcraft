@@ -1,15 +1,15 @@
 /* src/fonts.css */
 @font-face {
   font-family:"Minecrafter";
-  src:url(/fonts/minecrafter-regular-QP6DJ2EA-GW06IBUD.woff2) format("woff2"),
-  url(/fonts/minecrafter-regular-4DL53Z7I.woff)          format("woff");
+  src:url(./fonts/minecrafter-regular-QP6DJ2EA-GW06IBUD.woff2) format("woff2"),
+  url(./fonts/minecrafter-regular-4DL53Z7I.woff)          format("woff");
   font-weight:normal;
   font-style:normal
  }
  @font-face {
   font-family:"Minecraftia";
-  src:url(/fonts/minecraftia-regular-GHR4IEZ3-MEPEEZTE.woff2) format("woff2"),
-  url(/fonts/minecraftia-regular-EX64BCT7.woff)          format("woff");
+  src:url(./fonts/minecraftia-regular-GHR4IEZ3-MEPEEZTE.woff2) format("woff2"),
+  url(./fonts/minecraftia-regular-EX64BCT7.woff)          format("woff");
   font-weight:normal;
   font-style:normal
  }
