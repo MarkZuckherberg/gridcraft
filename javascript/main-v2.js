@@ -2083,7 +2083,7 @@ var js = class extends j {
    }
 };
 Q("block-bleed-bottom", js, {});
-var Qs = "../images/arrow-down-LADJI262.svg";
+var Qs = "images/arrow-down-LADJI262.svg";
 var Fs = $({
    url: Qs,
    type: "svg",
@@ -2104,7 +2104,7 @@ var Fs = $({
       return this.url
    }
 });
-var _O = "../images/gridcraft-logo-ENXLGD5T.png";
+var _O = "images/gridcraft-logo-ENXLGD5T.png";
 var ar = $({
    url: _O,
    type: "image",
@@ -2114,7 +2114,7 @@ var ar = $({
       return this.url
    }
 });
-var oO = "../images/twitter-logo-XLPG7IBD.png";
+var oO = "images/twitter-logo-XLPG7IBD.png";
 var lr = $({
    url: oO,
    type: "image",
@@ -2124,7 +2124,7 @@ var lr = $({
       return this.url
    }
 });
-var eO = "../images/discord-logo-6PIR6M6U.png";
+var eO = "images/discord-logo-6PIR6M6U.png";
 var mr = $({
    url: eO,
    type: "image",
@@ -2306,7 +2306,7 @@ var zO = class extends j {
    }
 };
 Q("gridcraft-footer", zO, {});
-var VO = "../images/avatar-alien-active-QBHOUM6L.png";
+var VO = "images/avatar-alien-active-QBHOUM6L.png";
 var ZO = $({
    url: VO,
    type: "image",
@@ -2316,7 +2316,7 @@ var ZO = $({
       return this.url
    }
 });
-var jO = "../images/avatar-alien-2x-V4U2IJNZ.png";
+var jO = "images/avatar-alien-2x-V4U2IJNZ.png";
 var QO = $({
    url: jO,
    type: "image",
@@ -2326,7 +2326,7 @@ var QO = $({
       return this.url
    }
 });
-var FO = "../images/avatar-alien-big-5I4QB6JH.png";
+var FO = "images/avatar-alien-big-5I4QB6JH.png";
 var _i = $({
    url: FO,
    type: "image",
@@ -2336,7 +2336,7 @@ var _i = $({
       return this.url
    }
 });
-var oi = "../images/avatar-human-active-U6NXTXOG.png";
+var oi = "images/avatar-human-active-U6NXTXOG.png";
 var ei = $({
    url: oi,
    type: "image",
@@ -2346,7 +2346,7 @@ var ei = $({
       return this.url
    }
 });
-var ri = "../images/avatar-human-2x-7BMUKSZI.png";
+var ri = "images/avatar-human-2x-7BMUKSZI.png";
 var ti = $({
    url: ri,
    type: "image",
@@ -2356,7 +2356,7 @@ var ti = $({
       return this.url
    }
 });
-var si = "../images/avatar-human-big-54OIFIYP.png";
+var si = "images/avatar-human-big-54OIFIYP.png";
 var Oi = $({
    url: si,
    type: "image",
@@ -2366,7 +2366,7 @@ var Oi = $({
       return this.url
    }
 });
-var ii = "../images/avatar-zombie-active-JNFHMR4V.png";
+var ii = "images/avatar-zombie-active-JNFHMR4V.png";
 var pi = $({
    url: ii,
    type: "image",
@@ -2376,7 +2376,7 @@ var pi = $({
       return this.url
    }
 });
-var gi = "../images/avatar-zombie-2x-XSF3SNBB.png";
+var gi = "images/avatar-zombie-2x-XSF3SNBB.png";
 var $i = $({
    url: gi,
    type: "image",
@@ -2386,7 +2386,7 @@ var $i = $({
       return this.url
    }
 });
-var xi = "../images/avatar-zombie-big-E64EUSW3.png";
+var xi = "images/avatar-zombie-big-E64EUSW3.png";
 var ni = $({
    url: xi,
    type: "image",
@@ -2396,7 +2396,7 @@ var ni = $({
       return this.url
    }
 });
-var wi = "../images/avatar-ape-active-2XGL6UQM.png";
+var wi = "images/avatar-ape-active-2XGL6UQM.png";
 var ui = $({
    url: wi,
    type: "image",
@@ -2406,7 +2406,7 @@ var ui = $({
       return this.url
    }
 });
-var ai = "../images/avatar-ape-2x-KQ522YQK.png";
+var ai = "images/avatar-ape-2x-KQ522YQK.png";
 var li = $({
    url: ai,
    type: "image",
@@ -2416,7 +2416,7 @@ var li = $({
       return this.url
    }
 });
-var mi = "../images/avatar-ape-big-JB7WKMIB.png";
+var mi = "images/avatar-ape-big-JB7WKMIB.png";
 var Wi = $({
    url: mi,
    type: "image",
@@ -2568,7 +2568,7 @@ var Ji = class extends j {
 Q("gridcraft-avatar-gallery", Ji, {
    cssid: "k-at"
 });
-var Xi = "../images/icon-coin-question-2IWX77KJ.png";
+var Xi = "images/icon-coin-question-2IWX77KJ.png";
 var zi = $({
    url: Xi,
    type: "image",
@@ -2578,7 +2578,7 @@ var zi = $({
       return this.url
    }
 });
-var Vi = "../images/gridcraft-play-java-QMLO2RXY.jpg";
+var Vi = "images/gridcraft-play-java-QMLO2RXY.jpg";
 var Zi = $({
    url: Vi,
    type: "image",
@@ -2588,7 +2588,7 @@ var Zi = $({
       return this.url
    }
 });
-var ji = "../images/gridcraft-play-mobile-HE3NDVYN.jpg";
+var ji = "images/gridcraft-play-mobile-HE3NDVYN.jpg";
 var Qi = $({
    url: ji,
    type: "image",
@@ -2624,7 +2624,7 @@ Q("gridcraft-how-to-play", pp, {
    cssns: "l_af",
    cssid: "l-af"
 });
-var gp = "../images/experience-3-LAPCQLZN.png";
+var gp = "images/experience-3-LAPCQLZN.png";
 var $p = $({
    url: gp,
    type: "image",
@@ -2634,7 +2634,7 @@ var $p = $({
       return this.url
    }
 });
-var xp = "../images/icon-mountaintop-JCEUXXJP.png";
+var xp = "images/icon-mountaintop-JCEUXXJP.png";
 var np = $({
    url: xp,
    type: "image",
@@ -2644,7 +2644,7 @@ var np = $({
       return this.url
    }
 });
-var wp = "../images/roadmap-bar-UEXBDLTU.png";
+var wp = "images/roadmap-bar-UEXBDLTU.png";
 var up = $({
    url: wp,
    type: "image",
@@ -2654,7 +2654,7 @@ var up = $({
       return this.url
    }
 });
-var ap = "../images/roadmap-bar-mobile-AMZGC3LM.png";
+var ap = "images/roadmap-bar-mobile-AMZGC3LM.png";
 var lp = $({
    url: ap,
    type: "image",
@@ -2664,7 +2664,7 @@ var lp = $({
       return this.url
    }
 });
-var mp = "../images/logo-gaming-ape-club-CQ6OMW3N.png";
+var mp = "images/logo-gaming-ape-club-CQ6OMW3N.png";
 var Wp = $({
    url: mp,
    type: "image",
@@ -2674,7 +2674,7 @@ var Wp = $({
       return this.url
    }
 });
-var dp = "../images/logo-jrnyclub-XLKZVMBT.png";
+var dp = "images/logo-jrnyclub-XLKZVMBT.png";
 var yp = $({
    url: dp,
    type: "image",
@@ -2684,7 +2684,7 @@ var yp = $({
       return this.url
    }
 });
-var cp = "../images/logo-llamaverse-MEDVJSC4.png";
+var cp = "images/logo-llamaverse-MEDVJSC4.png";
 var Ip = $({
    url: cp,
    type: "image",
@@ -2694,7 +2694,7 @@ var Ip = $({
       return this.url
    }
 });
-var Bp = "../images/logo-squishysquad-T2WOTYQP.png";
+var Bp = "images/logo-squishysquad-T2WOTYQP.png";
 var Np = $({
    url: Bp,
    type: "image",
@@ -2704,7 +2704,7 @@ var Np = $({
       return this.url
    }
 });
-var Dp = "../images/logo-goobers-T4R3OTDD.png";
+var Dp = "images/logo-goobers-T4R3OTDD.png";
 var hp = $({
    url: Dp,
    type: "image",
@@ -2714,7 +2714,7 @@ var hp = $({
       return this.url
    }
 });
-var Kp = "../images/logo-cyberkongz-HKO2TZD7.png";
+var Kp = "images/logo-cyberkongz-HKO2TZD7.png";
 var Sp = $({
    url: Kp,
    type: "image",
@@ -2724,7 +2724,7 @@ var Sp = $({
       return this.url
    }
 });
-var kp = "../images/icon-person-B2V7CVVX.png";
+var kp = "images/icon-person-B2V7CVVX.png";
 var Le = $({
    url: kp,
    type: "image",
@@ -2734,7 +2734,7 @@ var Le = $({
       return this.url
    }
 });
-var fp = "../images/avatar-dnp3-ZU7GSEYM.png";
+var fp = "images/avatar-dnp3-ZU7GSEYM.png";
 var Gp = $({
    url: fp,
    type: "image",
@@ -2744,7 +2744,7 @@ var Gp = $({
       return this.url
    }
 });
-var Tp = "../images/avatar-alec-c-MWOI2IRD.png";
+var Tp = "images/avatar-alec-c-MWOI2IRD.png";
 var Mp = $({
    url: Tp,
    type: "image",
@@ -2754,7 +2754,7 @@ var Mp = $({
       return this.url
    }
 });
-var vp = "../images/avatar-dan-h-5667O2JC.png";
+var vp = "images/avatar-dan-h-5667O2JC.png";
 var qp = $({
    url: vp,
    type: "image",
@@ -2764,7 +2764,7 @@ var qp = $({
       return this.url
    }
 });
-var Up = "../images/avatar-daniel-s-RWSH2LZO.png";
+var Up = "images/avatar-daniel-s-RWSH2LZO.png";
 var Pp = $({
    url: Up,
    type: "image",
@@ -2774,7 +2774,7 @@ var Pp = $({
       return this.url
    }
 });
-var bp = "../images/avatar-cameron-r-CPLCCPTX.png";
+var bp = "images/avatar-cameron-r-CPLCCPTX.png";
 var Rp = $({
    url: bp,
    type: "image",
@@ -2784,7 +2784,7 @@ var Rp = $({
       return this.url
    }
 });
-var Ap = "../images/avatar-coloredviolet-ZNMUDEKA.png";
+var Ap = "images/avatar-coloredviolet-ZNMUDEKA.png";
 var Cp = $({
    url: Ap,
    type: "image",
@@ -2794,7 +2794,7 @@ var Cp = $({
       return this.url
    }
 });
-var Hp = "../images/avatar-onionwave-RN5FJU4U.png";
+var Hp = "images/avatar-onionwave-RN5FJU4U.png";
 var Lp = $({
    url: Hp,
    type: "image",
@@ -2804,7 +2804,7 @@ var Lp = $({
       return this.url
    }
 });
-var Yp = "../images/avatar-pogo-CVDDD2XW.png";
+var Yp = "images/avatar-pogo-CVDDD2XW.png";
 var Ep = $({
    url: Yp,
    type: "image",
@@ -2814,7 +2814,7 @@ var Ep = $({
       return this.url
    }
 });
-var Jp = "../images/avatar-sagan-XGSYXOUR.png";
+var Jp = "images/avatar-sagan-XGSYXOUR.png";
 var Xp = $({
    url: Jp,
    type: "image",
@@ -2824,7 +2824,7 @@ var Xp = $({
       return this.url
    }
 });
-var zp = "../images/avatar-seth-m-BQLBOVBT.png";
+var zp = "images/avatar-seth-m-BQLBOVBT.png";
 var Vp = $({
    url: zp,
    type: "image",
@@ -2834,7 +2834,7 @@ var Vp = $({
       return this.url
    }
 });
-var Zp = "../images/avatar-teamplayer-OGRQ6AMF.png";
+var Zp = "images/avatar-teamplayer-OGRQ6AMF.png";
 var jp = $({
    url: Zp,
    type: "image",
@@ -2844,7 +2844,7 @@ var jp = $({
       return this.url
    }
 });
-var Qp = "../images/avatar-mayor-05-EPC57QEY.png";
+var Qp = "images/avatar-mayor-05-EPC57QEY.png";
 var Fp = $({
    url: Qp,
    type: "image",
@@ -2854,7 +2854,7 @@ var Fp = $({
       return this.url
    }
 });
-var _g = "../images/avatar-david-p-Z7EMNOS2.png";
+var _g = "images/avatar-david-p-Z7EMNOS2.png";
 var og = $({
    url: _g,
    type: "image",
@@ -2864,7 +2864,7 @@ var og = $({
       return this.url
    }
 });
-var eg = "../images/avatar-gijs-QPSHGESK.png";
+var eg = "images/avatar-gijs-QPSHGESK.png";
 var rg = $({
    url: eg,
    type: "image",
@@ -2874,7 +2874,7 @@ var rg = $({
       return this.url
    }
 });
-var tg = "../images/avatar-josh-m-LJYSUWBJ.png";
+var tg = "images/avatar-josh-m-LJYSUWBJ.png";
 var sg = $({
    url: tg,
    type: "image",
@@ -2884,7 +2884,7 @@ var sg = $({
       return this.url
    }
 });
-var Og = "../images/avatar-jumi-MFSFN6ZV.png";
+var Og = "images/avatar-jumi-MFSFN6ZV.png";
 var ig = $({
    url: Og,
    type: "image",
@@ -2894,7 +2894,7 @@ var ig = $({
       return this.url
    }
 });
-var pg = "../images/avatar-mark-v-RHZDBCPV.png";
+var pg = "images/avatar-mark-v-RHZDBCPV.png";
 var gg = $({
    url: pg,
    type: "image",
@@ -2904,7 +2904,7 @@ var gg = $({
       return this.url
    }
 });
-var $g = "../images/experiance-g-2x-V25V3542.png";
+var $g = "images/experiance-g-2x-V25V3542.png";
 var xg = $({
    url: $g,
    type: "image",
@@ -2914,7 +2914,7 @@ var xg = $({
       return this.url
    }
 });
-var ng = "../images/oe-panel1-5BEHGBMP.png";
+var ng = "images/oe-panel1-5BEHGBMP.png";
 var wg = $({
    url: ng,
    type: "image",
@@ -2924,7 +2924,7 @@ var wg = $({
       return this.url
    }
 });
-var ug = "../images/oe-panel2-2EWGQBFU.png";
+var ug = "images/oe-panel2-2EWGQBFU.png";
 var ag = $({
    url: ug,
    type: "image",
@@ -2934,7 +2934,7 @@ var ag = $({
       return this.url
    }
 });
-var lg = "../images/oe-panel3-GG32DSFT.png";
+var lg = "images/oe-panel3-GG32DSFT.png";
 var mg = $({
    url: lg,
    type: "image",
@@ -2944,7 +2944,7 @@ var mg = $({
       return this.url
    }
 });
-var Wg = "../images/oe-panel4-SH3LTGV4.png";
+var Wg = "images/oe-panel4-SH3LTGV4.png";
 var dg = $({
    url: Wg,
    type: "image",
@@ -2954,7 +2954,7 @@ var dg = $({
       return this.url
    }
 });
-var yg = "../images/experience-5-XPLT3SFS.png";
+var yg = "images/experience-5-XPLT3SFS.png";
 var cg = $({
    url: yg,
    type: "image",
@@ -2964,7 +2964,7 @@ var cg = $({
       return this.url
    }
 });
-var Ig = "../images/experience-6-GFC5LJFH.png";
+var Ig = "images/experience-6-GFC5LJFH.png";
 var Bg = $({
    url: Ig,
    type: "image",
@@ -2974,7 +2974,7 @@ var Bg = $({
       return this.url
    }
 });
-var Ng = "../images/cyberkongz-CXZVOK23.png";
+var Ng = "images/cyberkongz-CXZVOK23.png";
 var Dg = $({
    url: Ng,
    type: "image",
@@ -2984,7 +2984,7 @@ var Dg = $({
       return this.url
    }
 });
-var hg = "../images/llama-arena-OIA6O43Y.png";
+var hg = "images/llama-arena-OIA6O43Y.png";
 var Kg = $({
    url: hg,
    type: "image",
@@ -2994,7 +2994,7 @@ var Kg = $({
       return this.url
    }
 });
-var Sg = "../images/squishy-astronaut-4RODKE7V.png";
+var Sg = "images/squishy-astronaut-4RODKE7V.png";
 var kg = $({
    url: Sg,
    type: "image",
@@ -3004,7 +3004,7 @@ var kg = $({
       return this.url
    }
 });
-var fg = "../images/goobers-US6GF7FC.png";
+var fg = "images/goobers-US6GF7FC.png";
 var Gg = $({
    url: fg,
    type: "image",
@@ -3014,7 +3014,7 @@ var Gg = $({
       return this.url
    }
 });
-var Tg = "../images/villagers-H3MR4D7D.png";
+var Tg = "images/villagers-H3MR4D7D.png";
 var Mg = $({
    url: Tg,
    type: "image",
@@ -3024,7 +3024,7 @@ var Mg = $({
       return this.url
    }
 });
-var vg = "../images/CameronR-IACBMMPC.png";
+var vg = "images/CameronR-IACBMMPC.png";
 var qg = $({
    url: vg,
    type: "image",
@@ -3034,7 +3034,7 @@ var qg = $({
       return this.url
    }
 });
-var Ug = "../images/ColoredViolet-LCMSXP2R.png";
+var Ug = "images/ColoredViolet-LCMSXP2R.png";
 var Pg = $({
    url: Ug,
    type: "image",
@@ -3044,7 +3044,7 @@ var Pg = $({
       return this.url
    }
 });
-var bg = "../images/DanielS-5O2TLNRY.png";
+var bg = "images/DanielS-5O2TLNRY.png";
 var Rg = $({
    url: bg,
    type: "image",
@@ -3054,7 +3054,7 @@ var Rg = $({
       return this.url
    }
 });
-var Ag = "../images/DavidP-KS4PA4ZG.png";
+var Ag = "images/DavidP-KS4PA4ZG.png";
 var Cg = $({
    url: Ag,
    type: "image",
@@ -3064,7 +3064,7 @@ var Cg = $({
       return this.url
    }
 });
-var Hg = "../images/GIJS-INQ2MGQ6.png";
+var Hg = "images/GIJS-INQ2MGQ6.png";
 var Lg = $({
    url: Hg,
    type: "image",
@@ -3074,7 +3074,7 @@ var Lg = $({
       return this.url
    }
 });
-var Yg = "../images/JoshM-FSN56OHA.png";
+var Yg = "images/JoshM-FSN56OHA.png";
 var Eg = $({
    url: Yg,
    type: "image",
@@ -3084,7 +3084,7 @@ var Eg = $({
       return this.url
    }
 });
-var Jg = "../images/Mayor05-RYYIEO2I.png";
+var Jg = "images/Mayor05-RYYIEO2I.png";
 var Xg = $({
    url: Jg,
    type: "image",
@@ -3094,7 +3094,7 @@ var Xg = $({
       return this.url
    }
 });
-var zg = "../images/OnionWave-U25EINLB.png";
+var zg = "images/OnionWave-U25EINLB.png";
 var Vg = $({
    url: zg,
    type: "image",
@@ -3104,7 +3104,7 @@ var Vg = $({
       return this.url
    }
 });
-var Zg = "../images/Pogo-MQ2C25DH.png";
+var Zg = "images/Pogo-MQ2C25DH.png";
 var jg = $({
    url: Zg,
    type: "image",
@@ -3114,7 +3114,7 @@ var jg = $({
       return this.url
    }
 });
-var Qg = "../images/Sagan-KPHNFAPI.png";
+var Qg = "images/Sagan-KPHNFAPI.png";
 var Fg = $({
    url: Qg,
    type: "image",
@@ -3124,7 +3124,7 @@ var Fg = $({
       return this.url
    }
 });
-var _$ = "../images/SethM-2LSW664Q.png";
+var _$ = "images/SethM-2LSW664Q.png";
 var o$ = $({
    url: _$,
    type: "image",
@@ -3134,7 +3134,7 @@ var o$ = $({
       return this.url
    }
 });
-var e$ = "../images/SethM-1-LLXK537U.png";
+var e$ = "images/SethM-1-LLXK537U.png";
 var r$ = $({
    url: e$,
    type: "image",
@@ -3144,7 +3144,7 @@ var r$ = $({
       return this.url
    }
 });
-var t$ = "../images/Teamplayer-I2H7KFWW.png";
+var t$ = "images/Teamplayer-I2H7KFWW.png";
 var s$ = $({
    url: t$,
    type: "image",
@@ -3154,7 +3154,7 @@ var s$ = $({
       return this.url
    }
 });
-var O$ = "../images/NFTLlama-CZHQT4GH.png";
+var O$ = "images/NFTLlama-CZHQT4GH.png";
 var i$ = $({
    url: O$,
    type: "image",
@@ -3164,7 +3164,7 @@ var i$ = $({
       return this.url
    }
 });
-var p$ = "../images/Jumi-VPCU6WRJ.png";
+var p$ = "images/Jumi-VPCU6WRJ.png";
 var g$ = $({
    url: p$,
    type: "image",
@@ -3174,7 +3174,7 @@ var g$ = $({
       return this.url
    }
 });
-var $$ = "../images/Projecki-OLVYOIUT.png";
+var $$ = "images/Projecki-OLVYOIUT.png";
 var x$ = $({
    url: $$,
    type: "image",
@@ -3184,7 +3184,7 @@ var x$ = $({
       return this.url
    }
 });
-var n$ = "../images/MarkV-MLFHOBP6.png";
+var n$ = "images/MarkV-MLFHOBP6.png";
 var w$ = $({
    url: n$,
    type: "image",
@@ -3194,7 +3194,7 @@ var w$ = $({
       return this.url
    }
 });
-var u$ = "../images/DNP3-WRRF34TA.png";
+var u$ = "images/DNP3-WRRF34TA.png";
 var a$ = $({
    url: u$,
    type: "image",
@@ -3357,21 +3357,21 @@ zo.sym || J_[K](Ee);
 var Kn = class extends j {
    mount() {
       let _ = globalThis.document.createElement("script");
-      return _.setAttribute("src", "../js/gridcraft-partners-js.js"), globalThis.document.head.appendChild(_)
+      return _.setAttribute("src", "js/gridcraft-partners-js.js"), globalThis.document.head.appendChild(_)
    }
 };
 Q("gridcraft-partners-js", Kn, {});
 var Sn = class extends j {
    mount() {
       let _ = globalThis.document.createElement("script");
-      return _.setAttribute("src", "../js/swiper.js"), _.setAttribute("module", ""), globalThis.document.head.appendChild(_)
+      return _.setAttribute("src", "js/swiper.js"), _.setAttribute("module", ""), globalThis.document.head.appendChild(_)
    }
 };
 Q("gridcraft-swiper-js", Sn, {});
 var kn = class extends j {
    mount() {
       let _ = globalThis.document.createElement("script");
-      return _.setAttribute("src", "../js/gridcraft-carousel.js"), _.setAttribute("module", ""), globalThis.document.head.appendChild(_)
+      return _.setAttribute("src", "js/gridcraft-carousel.js"), _.setAttribute("module", ""), globalThis.document.head.appendChild(_)
    }
 };
 Q("gridcraft-carousel-js", kn, {});
